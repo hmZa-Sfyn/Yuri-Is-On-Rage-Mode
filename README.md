@@ -1,2 +1,42 @@
 <p align="center">
-👋 Hi, I’m <code>Yuri</code> </p> <!---[![trophy](https://github-profile-trophy.vercel.app/?username=Yuri-Is-On-Rage-Mode&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yuri-Is-On-Rage-Mode&show_icons=true&hide_title=true)---> <p align="center"> <em>YOU MIGHT KNOW ME AS <code>YURI-DABANG</code>, BUT NOW I AM <code>Yuri-Is-On-Rage-Mode</code></em> </p> <p align="center"> You might remember me as YURI-DABANG, but now I’m in full-on beast mode as Yuri-Is-On-Rage-Mode—kinda like the Hulk, but with more code and fewer smashed keyboards! </p> <!---<p align="center"> <img width="1000" src="assets/github-snake.svg" alt="snake"/> </p>---> <!--- Yuri-Is-On-Rage-Mode/Yuri-Is-On-Rage-Mode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes. --->
+  <img src="https://img.shields.io/badge/🌟-Welcome-yellow?style=for-the-badge">
+</p>
+
+<h1 align="center">👋 Hi, I’m <code>Yuri</code></h1>
+
+<p align="center">
+  <!-- Profile Trophy Section -->
+  <!---[![trophy](https://github-profile-trophy.vercel.app/?username=Yuri-Is-On-Rage-Mode&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yuri-Is-On-Rage-Mode&show_icons=true&hide_title=true)--->
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/💻-Code_With_Passion-blueviolet?style=flat-square">
+  <img src="https://img.shields.io/badge/🔥-Beast_Mode_Activated-red?style=flat-square">
+  <img src="https://img.shields.io/badge/🎯-Rage_Mode_Engaged-orange?style=flat-square">
+</p>
+
+<p align="center">
+  <em>
+    YOU MIGHT KNOW ME AS <code>YURI-DABANG</code>, BUT NOW I AM <code>Yuri-Is-On-Rage-Mode</code> 🚀
+  </em>
+</p>
+
+<p align="center">
+  <strong>
+    Remember YURI-DABANG? Well, I’ve leveled up into Yuri-Is-On-Rage-Mode—think of it as going Super Saiyan but with code instead of energy blasts! 💥
+  </strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/⚡-Electrifying_Code-yellowgreen?style=for-the-badge">
+  <img src="https://img.shields.io/badge/👨‍💻-Coding_Ninja-black?style=for-the-badge">
+</p>
+
+<!--- Snake Animation -->
+<!---<p align="center">
+  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>--->
+
+<p align="center">
+  🔥 This is a ✨ special ✨ repository because its `README.md` (this file) appears on my GitHub profile. You can click the Preview link to take a look at the chaos and creativity unleashed here. Let's connect and build something awesome together! 
+</p>
