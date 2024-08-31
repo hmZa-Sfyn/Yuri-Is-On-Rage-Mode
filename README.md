@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/badge/🌟-Welcome-yellow?style=for-the-badge">
 </p>
 
-<h1 align="center">👋 Hi, I’m <code>Yuri</code></h1>
+<h1 align="center">👋 Hi, I’m <code>hmZa</code></h1>
 
 <p align="center">
   <!-- Profile Trophy Section -->
