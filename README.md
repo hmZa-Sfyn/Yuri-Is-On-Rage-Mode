@@ -37,6 +37,3 @@
   <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>--->
 
-<p align="center">
-  🔥 This is a ✨ special ✨ repository because its `README.md` (this file) appears on my GitHub profile. You can click the Preview link to take a look at the chaos and creativity unleashed here. Let's connect and build something awesome together! 
-</p>
